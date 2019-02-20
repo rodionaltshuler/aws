@@ -1,0 +1,6 @@
+server:
+  port: 7777
+
+aws:
+  keyId: ${AWS_KEY_ID}
+  secretKey: ${AWS_SECRET_KEY}
